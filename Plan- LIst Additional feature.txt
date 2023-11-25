@@ -1,0 +1,17 @@
+BasketBall Score Keeper
+
+** Clock
+- Resume Clock
+- Pause Clock
+- Add Time - (up to 59 sec and mins - limit to 60 mins and 59 secs)
+- digital clock - red - like nba clock
+
+** Scoring 
+- +1 pts, +2 pts, +3 pts
+
+* Halfs
+- 1st to 4th half
+- can extends to overtime - unlimited
+
+** Note
+- looks at internet designs
